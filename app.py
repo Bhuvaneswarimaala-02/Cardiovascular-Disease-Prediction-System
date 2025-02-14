@@ -7,7 +7,7 @@ from sklearn.metrics import accuracy_score
 import streamlit as st
 
 # %% Load the dataset
-df = pd.read_csv(r'C:\Users\DELL\OneDrive\Documents\CVDPredictionSystem\Dataset.csv')
+df = pd.read_csv('Dataset.csv')
 
 # %% Data Preparation (Select only 6 features for prediction)
 selected_features = ['age', 'sex', 'cp', 'trestbps', 'chol', 'thalach']
