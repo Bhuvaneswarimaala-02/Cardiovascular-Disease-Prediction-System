@@ -1,4 +1,4 @@
-# 🫀 Cardiovascular Disease Prediction App
+# 🫀 Cardiovascular Disease Prediction System
 
 This project is a machine learning-powered web application that predicts the likelihood of cardiovascular disease based on patient input data. It uses a Decision Tree Classifier trained on a medical dataset and deployed with **Streamlit** for easy interaction.
 
